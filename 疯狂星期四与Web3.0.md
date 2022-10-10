@@ -14,7 +14,7 @@
 
 ## 补充：web1.0 2.0 3.0 的区别（参考网址）
 
-https://blog.csdn.net/jxjiw/article/details/122742995?share_token=1b11eb0a-aa2d-40fe-9417-d469f61ee416&tt_from=copy_link&utm_source=copy_link&utm_medium=toutiao_android&utm_campaign=client_share?=【简易版 | Web1.0、2.0、3.0 有何区别？\_小豆芽... - 今日头条
+[web3 概念 参考网址](https://blog.csdn.net/jxjiw/article/details/122742995?share_token=1b11eb0a-aa2d-40fe-9417-d469f61ee416&tt_from=copy_link&utm_source=copy_link&utm_medium=toutiao_android&utm_campaign=client_share?=【简易版 | Web1.0、2.0、3.0 有何区别？\_小豆芽... - 今日头条)
 
 web3.0 概念旨在创建一个去中心化但安全的互联网，人们可以在其中安全地交换金钱和信息，而无需中间商或大型科技公司。与将数据存储在单个数据库或云提供商中的 Web2.0 不同，Web3.0 应用程序要么在区块链上运行，要么在点对点节点（服务器）上运行。
 
